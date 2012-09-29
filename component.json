@@ -6,4 +6,5 @@
   , "author": "Dustin Diaz <dustin@dustindiaz.com> (http://dustindiaz.com)"
   , "keywords": ["domready", "dom"]
   , "scripts": ["ready.js"]
+  , "main": "ready.js"
 }
